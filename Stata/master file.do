@@ -1,5 +1,5 @@
 // Set relative paths
-cd "C:\Users\Khalapsus_Hlib\Downloads\Coding for Economists_Assignment_Hlib Khalapsus\Stata"
+cd "C:\Users\Khalapsus_Hlib\Downloads\Coding for Economists_Assignment_Hlib Khalapsus\Stata" //Enter your directory here
 local PROJDIR "`c(pwd)'"
 
 // Use globals to set paths for each of the folders 
